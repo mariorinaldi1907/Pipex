@@ -1,7 +1,3 @@
-Sure! Here’s a sample **README.md** file for a GitHub repository for a project called **Pipex**. This template assumes that **Pipex** is a program that implements piping functionality (like Unix pipes) in a C program, commonly used in system programming.
-
----
-
 # Pipex
 
 **Pipex** is a C-based program that implements the piping functionality seen in Unix-like systems. It allows users to chain commands together using pipes, similar to how commands are piped in a terminal. The project demonstrates the use of file descriptors, process management, and inter-process communication in C.
